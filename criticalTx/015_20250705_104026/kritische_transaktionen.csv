@@ -1,0 +1,4 @@
+Betrag,ZeitLetzteTx,EntfernungClusterzentrum,EntfernungnaechstesGeraet,letzteHandyEntsperrung,Alter,5311,5411,5541,5812,5912,7995,6012,5813,4111,7011,Prediction,Fraud_Probability,Prediction_custom
+245.68,52,1.7,4.2,13,28,0,1,0,0,0,1,0,0,0,0,1,0.907081,1
+430.1,78,2.9,2.7,2,45,1,0,0,0,0,1,0,0,0,1,1,0.8761597,1
+210.56,210,2.1,15.0,15,27,0,0,0,0,1,1,0,0,1,0,1,0.9282356,1
