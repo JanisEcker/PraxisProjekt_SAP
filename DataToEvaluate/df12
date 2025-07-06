@@ -1,0 +1,5 @@
+TxNr,Betrag,ZeitLetzteTx,EntfernungClusterzentrum,EntfernungnaechstesGeraet,letzteHandyEntsperrung,Alter,5311,5411,5541,5812,5912,7995,6012,5813,4111,7011
+ABC123,100,20,20,1,1,25,1,0,0,0,0,0,0,0,0,0
+DEF456,10000,2000,3000,300,20,35,0,0,0,0,0,1,0,0,0,0
+GHI789,300,20,80,1,10,30,0,0,0,0,1,0,0,0,0,0
+TestNr,2000,1000,1000,1000,1,25,1,0,0,0,0,0,0,0,0,0
